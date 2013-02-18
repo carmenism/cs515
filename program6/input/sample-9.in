@@ -1,0 +1,28 @@
+enqueue 1 first
+length
+enqueue 1 second
+length
+enqueue 1 third
+length
+enqueue 1 fourth
+length
+enqueue 1 fifth
+length
+enqueue 1 sixth
+length
+enqueue 1 seventh
+length
+enqueue 1 eight
+length
+enqueue 1 ninth
+length
+enqueue 1 tenth
+length
+enqueue 1 eleventh
+dump
+length
+dequeue
+enqueue 1 eleventh
+length
+dump
+done

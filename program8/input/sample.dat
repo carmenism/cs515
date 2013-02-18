@@ -1,0 +1,17 @@
+This is a test 
+of the |indexing program|.
+
+It contains a few lines
+with some |index| entries.
+
+|Item| to |index| at start
+and at the end, another |item|
+|Index|es contain |item|s and
+|line number|s.
+
+A use of an item must be annotated,
+for the line number of that use
+to appear in the index.
+
+The |CAPITALIZATION| of |ITEM|s 
+is ignored.

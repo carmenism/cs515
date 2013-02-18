@@ -1,0 +1,33 @@
+4
+robby 16383
+tobor 25
+gort 0
+B-9 100
+gort on
+gort battery on
+gort operate 15
+B-9 recharge
+tobor on
+tobor rise 3
+tobor raise 2
+tobor battery on
+tobor height on
+tobor speed on
+tobor accelerate 2
+tobor operate 3
+tobor recharge
+robby accelerate 5
+robby on
+robby accelerate 5
+robby raise 10
+robby height on
+robby speed on
+robby height on
+robby battery on
+robby direction on
+robby right 5
+robby operate 10
+robby stop
+robby recharge
+robby operate 10
+exit

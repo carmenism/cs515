@@ -1,0 +1,14 @@
+enqueue 1 first-a
+enqueue 1 second-a
+enqueue 1 third-a
+enqueue 1 fourth-a
+dump
+length
+dequeue
+dequeue
+dequeue
+dequeue
+length
+dequeue
+length
+done

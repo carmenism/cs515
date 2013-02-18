@@ -1,0 +1,20 @@
+enqueue 1 1first
+enqueue 1 1second
+enqueue 1 1third
+enqueue 5 second
+enqueue 4 third
+enqueue 3 fourth-a
+enqueue 999999 fifth
+enqueue 3 fourth-b
+enqueue 999999 fifth-again
+length
+front
+dump
+dequeue
+dequeue
+enqueue 2 another
+enqueue 3 fourth-c
+enqueue 2 final-one
+length
+dump
+done

@@ -1,0 +1,38 @@
+4
+robby 16383
+tobor 25
+gort 0
+B-9 100
+gort on
+gort decelerate 4
+B-9 on
+B-9 battery on
+B-9 direction on
+
+B-9 left 1
+B-9 left 12
+B-9 left 15
+B-9 left 7
+exit
+
+B-9 height on
+B-9 raise 3
+B-9 raise 4
+B-9 lower 9
+B-9 lower 3
+B-9 raise 2
+exit
+
+B-9 speed on
+B-9 accelerate 5
+B-9 decelerate 10
+B-9 accelerate 5
+B-9 decelerate 15
+exit
+
+tobor timeleft on
+tobor timeleft on
+tobor timeleft off
+tobor timeleft on
+tobor timeleft on
+

@@ -1,0 +1,6 @@
+1:30:00
+0:25:36 this is the first track ;
+1:02:42 this is the second track ;
+0:33:12 should start a new disk ;
+0:25:10 should be second on second disk ;
+0:11:23 should be third on second disk ;

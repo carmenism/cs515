@@ -1,0 +1,16 @@
+enqueue 3 first
+enqueue 5 second
+enqueue 4 third
+enqueue 3 fourth
+enqueue 4 fifth
+length
+front
+dump
+dequeue
+dequeue
+enqueue 2 another
+enqueue 3 and-yet-another
+enqueue 2 final-one
+length
+dump
+done
